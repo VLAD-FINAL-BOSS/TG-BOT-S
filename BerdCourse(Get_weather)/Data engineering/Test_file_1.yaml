@@ -1,0 +1,7 @@
+bus:
+- age: 10
+  location: Moscow
+  name: Alice
+- age: 12
+  location: Moscow
+  name: Bob
