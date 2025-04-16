@@ -16,7 +16,7 @@ class BotStates(StatesGroup):
 
 
 
-API_TOKEN = '7858545674:AAEYs1HHQprXYhSfTPmL5wnipX1WNu8heHQ'
+API_TOKEN = ''
 bot = Bot(token=API_TOKEN)
 storage = MemoryStorage()
 dp = Dispatcher(storage=storage)
