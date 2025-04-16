@@ -14,7 +14,7 @@ from aiogram.fsm.state import State, StatesGroup
 
 
 # Инициализация бота и диспетчера
-bot = Bot(token='7725265338:AAFFze1Y1zCc-Yi2woegxlNBT-gq8MYvYVw')
+bot = Bot(token='')
 dp = Dispatcher()
 
 # Машина состояний
